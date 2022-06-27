@@ -1,2 +1,7 @@
-console.log('haloo aku depa');
-console.log('haloo aku depa');
+const today = new Date();
+
+function formatDate(date, format) {
+  //
+}
+
+formatDate(today, 'mm/dd/yy');
